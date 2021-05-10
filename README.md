@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Micha and I'm turning coffee ☕️ into code since 1988 in Germany 🇩🇪
+My name is Micha and I'm turning coffee ☕️ into code since 1988 in Germany 🇩🇪  
 (OK apparantly a bit after that, yeah)
 
 - Full Stack Web-Developer at [@sunlabde](https://github.com/sunlabde) working on [@thomn](https://github.com/thomn)
