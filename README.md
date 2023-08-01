@@ -3,8 +3,7 @@
 My name is Micha and I'm turning coffee ☕️ into code since 1988 in Germany 🇩🇪  
 (OK apparantly a bit after that, yeah)
 
-- Full-Stack Web Developer at [@sunlabde](https://github.com/sunlabde) working on [thomann.de](https://www.thomann.de) at [@thomann.io](https://github.com/cookiefactory)
-- Likes and uses WordPress
+Full-Stack WordPress Developer at [@sunlabde](https://github.com/sunlabde) working for [thomann.de](https://www.thomann.de)
 
 ![Follow me on Twitter](https://img.shields.io/twitter/follow/mfgmicha?style=social)
 
