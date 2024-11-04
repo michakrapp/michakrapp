@@ -1,9 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Micha and I'm turning coffee ☕️ into code since 1988 in Germany 🇩🇪  
 (OK apparantly a bit after that, yeah)
 
 Full-Stack WordPress Developer at [@sunlabde](https://github.com/sunlabde) working for [thomann.de](https://www.thomann.de)
+
+### Projects
+
+My personal projects
+[mfgmicha](https://github.com/mfgmicha)
+
+My professional projects
+[MKWP](https://github.com/mkwpde)
+
+### Links
 
 ![Follow me on Twitter](https://img.shields.io/twitter/follow/mfgmicha?style=social)
 
