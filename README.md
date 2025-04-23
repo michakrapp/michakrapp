@@ -21,7 +21,6 @@ My professional projects
 
 [WordPress Profile](https://profiles.wordpress.org/mfgmicha/)
 
-![Follow me on Twitter](https://img.shields.io/twitter/follow/mfgmicha?style=social)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=michakrapp&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
